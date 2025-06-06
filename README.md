@@ -51,8 +51,10 @@ Um de nossos clientes, o Sr. João, nos procurou solicitando nossos serviços. S
 ├── 📓 AluraStoreBr.ipynb  
 ├── 📜 README.md  
 |── .gitignore  
-|── LICENSE  
 |── Relátorio.pdf  
+|── LICENSE  
+|── RELEASE_NOTES.md
+
 
 ---
 
