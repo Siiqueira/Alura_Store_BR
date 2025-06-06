@@ -87,7 +87,7 @@ Um de nossos clientes, o Sr. João, nos procurou solicitando nossos serviços. S
 Clone o repositório:
 
 ```
-git clone https://github.com/Siiqueira/Alura_Store_BR.git
+git clone git@github.com:Siiqueira/Alura_Store_BR.git
 cd AluraStoreBr
 ```
 Abra o Jupyter Notebook:  
